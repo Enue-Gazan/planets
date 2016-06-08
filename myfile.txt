@@ -1,3 +1,4 @@
 copilCi
-playa
-cerRO
+paya
+cerro
+montE
